@@ -1,6 +1,7 @@
 # Sands
 ARS420 - Team Game Design 2018 - Project: Sands
-Team :
+
+Team Members Include:
 
 Elena Todorovska - Project Manager, Software Lead
 Jess Bailer - Art Director, 2D & 3D Artist
