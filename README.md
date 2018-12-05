@@ -1,29 +1,18 @@
 # Sands
-ARS420 - Team Game Design - Project: Sands
+ARS420 - Team Game Design 2018 - Project: Sands
+Team :
 
-WARNING: Make sure you are in the correct folder when running these commands. Git will assume that where you are in the file structure when you run these commands is where you want the files dumped to or pulled from.
+Elena Todorovska - Project Manager, Software Lead
+Jess Bailer - Art Director, 2D & 3D Artist
 
-To Clone:
+Tessa Costley - Software Developer, Animator
+Raushon Henry - Software Developer, Level Designer
+Ran Crump - Software Developer, VR & Controller Support
 
-git clone -b {branch name} https://github.com/et0005/Sands.git
+Paul Ethridge - 3D Artist, Set Designer
+Caitlin Hendricks - 2D & 3D Artist, UI Designer
+Bree Dotson - 2D Artist, Logo & Font design
 
-To Commit:
+Jordan Biffle - Theme Music
 
-git commit --author="{name} <{email}>" -m "{comment}" Note: <> brackets are required
-
-Tip: if it doesn't work try these first:
-
-git config user.email "{email}"
-
-git config user.name "{name}"
-
-WARNING: Commits are saves to local changes, Pushes are modifications to remote repos. 
-!!!!COMMIT, PULL THEN PUSH! EVERY. TIME. YOU HAVE WORK THAT IS IMPORANT TO YOU!!!!
-
-To Push:
-
-git push origin {branch name}
-
-You'll then be asked for your username and password
-
-WARNING: Make sure you are in the correct folder when running these commands. Git will assume that where you are in the file structure when you run these commands is where you want the files dumped to or pulled from.
+Ambient musical arrangement gratiously custom written and donated by Chris Garrison.
